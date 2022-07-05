@@ -1,9 +1,9 @@
 # Bluware-HW
-Linear Spline Interpolator<br />
+Linear Spline Interpolator
 
 Simple code to evaluate linear splines. Constant extrapolation is used outside bounds.<br />
 
-<br /> To compile, simply clone the repository and run the makefile in the folder src. <br />
+To compile, simply clone the repository and run the makefile in the folder src. <br />
 
 <br /> git clone -n https://github.com/AbhirajBishnoi/Bluware-HW.git <br />
 cd src <br />
